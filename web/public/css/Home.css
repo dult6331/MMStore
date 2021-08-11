@@ -1,0 +1,89 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jun 25, 2021, 9:15:14 PM
+    Author     : Admin
+*/
+.wrap-all{
+    width: 100%;
+}
+
+#firstimage{
+    background-image: url('../images/web/NDT00711.jpg');
+    background-repeat: no-repeat;
+    background-size:  cover;
+}
+#secondimage{
+    background-image: url('../images/web/NDT0041ád7.jpg') ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#thirdimage{
+    background-image: url('../images/web/ban-phim-co-gaming-1.jpg') ;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+#carousel-example-1z{
+    margin: 0 auto ;
+    width: 90% ;
+    height: 40vw ; 
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.product{
+    width: 80%;
+    margin: 0 auto;
+    color: #343a40
+}
+.carousel-inner{
+    height: 100%;
+}
+.carousel-item{
+    height: 100%;
+}
+
+footer {
+    background: #343a40;
+    padding: 40px;
+    margin-top: 20px;
+}
+footer a {
+    color: #f8f9fa!important
+}
+.bgc{
+    background-image: url(image/Clothes+and+shoes-74_banner.jpg);
+ 
+}
+.show_txt{
+    display: inline-block;
+    width: 100%;
+    white-space: nowrap;
+    overflow: hidden !important;
+    text-overflow: ellipsis;
+}
+a .active{
+    color: white;
+}
+.main-hearder-bar{
+    background-color: #fff;
+    border-bottom-color: #251212;
+    border-bottom-style: solid ;
+}
+.bg-img{
+    with:90% ;
+}
+#productnamefix {
+     display: -webkit-box;
+    max-height: 3.2rem;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: normal;
+    -webkit-line-clamp: 2;
+    line-height: 1.6rem; 
+}
